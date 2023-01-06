@@ -10,7 +10,7 @@
 欢迎你对我的项目提出宝贵的意见和建议 :)  
 
 ### 与我相关 
-[我的博客\(使用Bolo驱动\)](https://expoli.tech) | [通过QQ与我联系](http://wpa.qq.com/msgrd?v=3&uin=1925798514&site=qq&menu=yes)
+[我的博客](https://expoli.tech)
 
 更多我的开源项目请参阅我的GitHub个人仓库！
 
